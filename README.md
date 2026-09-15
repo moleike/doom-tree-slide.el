@@ -21,6 +21,8 @@ An opinionated wrapper to make `org-tree-slide` play nicely with Doom Emacs.
 
 **Load in `config.el`**
 
+Map the mode to a keybinding of your choice. Example using `SPC t P`:
+
 ```elisp
 (use-package! doom-tree-slide
   :commands (doom-tree-slide-mode)
