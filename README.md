@@ -16,7 +16,7 @@ An opinionated wrapper to make `org-tree-slide` play nicely with Doom Emacs.
 
 ```elisp
 (package! doom-tree-slide
-  :recipe (:host github :repo "moleike/doom-tree-slide"))
+  :recipe (:host github :repo "moleike/doom-tree-slide.el"))
 ```
 
 **Load in `config.el`**
