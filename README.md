@@ -70,9 +70,9 @@ an external screen.
 
 2. Start the presentation by toggling `M-x doom-tree-slide-mode`
 
-3. Clone your frame (`M-x clone-frame`) and drag the new frame to your projector
-   or external monitor.
+3. Clone your frame (`M-x clone-frame`) and either drag it to your external
+   display or select it as your shared window in your meeting app.
 
-4. Launch presenter mode on your laptop frame by running `M-x
+5. Launch presenter mode on your laptop frame by running `M-x
    doom-tree-slide-presenter-notes`. This creates a 70/30 window split that
    automatically syncs your private notes as you change slides.
